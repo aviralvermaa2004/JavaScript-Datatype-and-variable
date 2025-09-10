@@ -1,0 +1,1 @@
+# JavaScript-Datatype-and-variable
